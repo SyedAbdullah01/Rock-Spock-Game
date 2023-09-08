@@ -46,9 +46,15 @@ The game follows these rules:
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
+The Rock, Spock Game was developed using the following technologies and tools:
+
+- **HTML**: Used for structuring the game's web page.
+- **CSS**: Employed for styling the game's user interface and layout.
+- **JavaScript**: Implemented the game logic, including player interactions and computer AI.
+- **confetti.js**: Integrated for the confetti animation effect.
+- **GitHub**: The codebase is hosted and shared on GitHub.
+- **Netlify**: Deployed the live version of the Rock, Spock Game for online play.
+
 
 ## Credits
 
